@@ -1,0 +1,6 @@
+Artista A;Música 1
+Artista C;Música 3
+Artista D;Música 4
+Artista E;Música 5
+Artista B;Música 2
+Artista F;Música 6
