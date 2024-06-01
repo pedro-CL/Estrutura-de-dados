@@ -5,7 +5,7 @@ Este repositório contém códigos desenvolvidos durante as aulas da disciplina 
 ## Estruturas de Dados Implementadas:
 
 - Listas sequenciais
-- Listas ordenadas
+- Listas encadeadas
 
 ## Algoritmos Implementados:
 
@@ -22,12 +22,8 @@ Este repositório contém códigos desenvolvidos durante as aulas da disciplina 
 
 Cada pasta neste repositório contém códigos passadas na sala de aula com alguns algoritmo específicos. Os códigos estão organizados de forma a facilitar o entendimento e a utilização.
 
-Para compilar e executar os códigos, é necessário ter um compilador apropriado para a linguagem utilizada (geralmente C ou C++).
+Para compilar e executar os códigos, é necessário ter um compilador apropriado para a linguagem utilizada (gcc).
 
 ## Contribuições:
 
 Contribuições são bem-vindas! Se você encontrar algum erro nos códigos ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença:
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
